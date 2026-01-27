@@ -25,7 +25,7 @@ jobs:
           echo "Last checked: $(date -u +"%Y-%m-%dT%H:%M:%SZ")" > "$TIMESTAMP_FILE"
 
           # Configure Git
-          git config user.name "deedenis"
+          git config user.name "deedennis"
           git config user.email "dennisnjenga157@gmail.com"
 
           # Stage changes
